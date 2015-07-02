@@ -1,0 +1,9 @@
+C:\Users\vb\Documents\Visual Studio 2013\Projects\WinFolderDelete\WinFolderDelete\bin\Debug\WinFolderDelete.exe.config
+C:\Users\vb\Documents\Visual Studio 2013\Projects\WinFolderDelete\WinFolderDelete\bin\Debug\WinFolderDelete.exe
+C:\Users\vb\Documents\Visual Studio 2013\Projects\WinFolderDelete\WinFolderDelete\bin\Debug\WinFolderDelete.pdb
+C:\Users\vb\Documents\Visual Studio 2013\Projects\WinFolderDelete\WinFolderDelete\obj\Debug\WinFolderDelete.csprojResolveAssemblyReference.cache
+C:\Users\vb\Documents\Visual Studio 2013\Projects\WinFolderDelete\WinFolderDelete\obj\Debug\WinFolderDelete.Form1.resources
+C:\Users\vb\Documents\Visual Studio 2013\Projects\WinFolderDelete\WinFolderDelete\obj\Debug\WinFolderDelete.Properties.Resources.resources
+C:\Users\vb\Documents\Visual Studio 2013\Projects\WinFolderDelete\WinFolderDelete\obj\Debug\WinFolderDelete.csproj.GenerateResource.Cache
+C:\Users\vb\Documents\Visual Studio 2013\Projects\WinFolderDelete\WinFolderDelete\obj\Debug\WinFolderDelete.exe
+C:\Users\vb\Documents\Visual Studio 2013\Projects\WinFolderDelete\WinFolderDelete\obj\Debug\WinFolderDelete.pdb
